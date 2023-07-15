@@ -2,30 +2,37 @@
 <html>
 	<head>
 		<titel>Course</titel>
+
+		<link rel="stylesheet" type="text/css" href="styles.css">
 		<meta charset="uft=8">
-		</head>
-		<body>
-			<h1>
-				<button> Click  </button>
-				</h1>
+	</head>
+	<body>
+		<h1>
+		<button class="bob"> SUBSCRIBE </button>
+		
+		</h1>
 
-			<h2>
-			<button> Max </button>
-			<button> Potato </button>
-			</h2>
-			<h3>
-				<p>Hello, World</p>
-				<p>Today was good dah</p>
-			</h3>
-			<h4>
-				<p> <a href="https://www.google.com/" target="_blank">Search with Google</a> </p>
+		<h2>
+		<button> Max </button>
+		<button> Potato </button>
+		</h2>
+		<h3>
+		<p>Hello, World</p>
+		<p>Today was good dah</p>
+		</h3>
+		<h4>
+		<p> <a href="https://www.google.com/" target="_blank">Search with Google</a> </p>
 								
-			</h4>
-			<h5>
+		</h4>
+		<h5>
 				
-				<p style="color:red"> <a href="https://www.amazon.com/" target="_blank">Back to Amazon</a> </p>
+		<p> <a href="https://www.amazon.com/" target="_blank">Back to Amazon</a> </p>
 
-				</h5>
-			</body>
+		<p>Nike Black Runnig Shoes</p>
+		<p> </p>
+		<p>$39 - in stock</p>
+		<p>Free Delivery tommorow </p>
+		</h5>
+	</body>
 
-			</html>
+	</html>

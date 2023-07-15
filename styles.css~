@@ -1,0 +1,23 @@
+
+body
+{
+color: black;
+background: white;
+}
+
+.bob
+{
+	background-color: rgb(300, 1, 1);
+	color:black;
+	border: none;
+	height: 35px;
+	width 105;
+	border-radius: 2px;
+	cursor: pointer;
+}
+.button-Max
+{
+	background-color: rgb(100, 100, 100);
+	color: white;
+	cursor: pointer;
+}
